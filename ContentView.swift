@@ -23,6 +23,7 @@ struct ContentView: View {
                     .tag(2)
             }
             .tabViewStyle(PageTabViewStyle(indexDisplayMode: .always))
+
         }
     }
 }
